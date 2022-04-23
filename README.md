@@ -38,14 +38,24 @@ We checked at total 12 hypothesis to see if the data behaves like it was expecte
 
 | **Hypothesis** | **Result** | **Final Result** |
 | --- | --- | --- |
-| H8: Stores should sell more over the years | False | The stores sales are dropping 5% each year. |
-| H9: Stores should sell more in the second semester  | False | The stores sells 15% less in the second semester when compared to first semester. |
-| H10: Stores should sell more after the day 10 of the month | Truth | The stores have nearly the double of sales after day 10. (In total, not average) |
-| H11: Stores should sell less in the weekend | Truth | The stores sells much less during the weekend, especially during sundays. |
-
-H8: Stores should sell more over the years
+| H8: Stores should sell more over the years. | False | The stores sales are dropping 5% each year. |
+| H9: Stores should sell more in the second semester.  | False | The stores sells 15% less in the second semester when compared to first semester. |
+| H10: Stores should sell more after the day 10 of the month. | Truth | The stores have nearly the double of sales after day 10. (In total, not average) |
+| H11: Stores should sell less in the weekend. | Truth | The stores sells much less during the weekend, especially during sundays. |
 
 
+
+**H8: Stores should sell more over the years**
+![alt_text](https://github.com/jaohenritm/Rossman/blob/main/img/H8.png)
+
+**H9: Stores should sell more in the second semester**
+![alt_text](https://github.com/jaohenritm/Rossman/blob/main/img/H9.png)
+
+**H10: Stores should sell more after the day 10 of the month**
+![alt_text](https://github.com/jaohenritm/Rossman/blob/main/img/H10.png)
+
+**H11: Stores should sell less in the weekend.**
+![alt_text](https://github.com/jaohenritm/Rossman/blob/main/img/H11.png)
 
 ## 2.3 The Selection of Features
 As we did the EDA, it was perceived that some features in this dataset are impossible for now to be used in this project like customers.
