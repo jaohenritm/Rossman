@@ -1,5 +1,7 @@
 # Rossman Sales Forecast
 
+![alt text](https://github.com/jaohenritm/Rossman/blob/main/img/63b806b1494a7fbd9cb05271667b9c61.png)
+
 # 1. Rossmann Business
 Rossmann is one of Europe's largest drugstore chains. With around 56,200 employees and over 4,000 stores. In 2019, Rossmann had sales of over €10 billion with majority of that sales on Germany. With such a large number and variety of stores, it is very important that the management of the company have a base of sales in the future, with this a business issue has arisen that the company's CFO needs to resolve at the moment.
 
