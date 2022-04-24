@@ -36,7 +36,7 @@ Most of the fields are self-explanatory. The following are descriptions for thos
 After collecting the Data, the next step was to do a really deep Exploratory Data Analysis (EDA) to validate some hypothesis to see how the data behaves and how every feature affects the amount of sales.
 
 ## 2.2 Outstanding Hypothesis
-We checked at total 12 hypothesis to see if the data behaves like it was expected, in fact the majority of the hypothesis seems to be false. We selected some that we think are the most important amongst them.
+We checked a total of 12 hypothesis to see if the data behaves like it was expected, in fact the majority of the hypothesis seems to be false. We selected some that we think are the most important amongst them.
 
 
 **H8: Stores should sell more over the years**
@@ -51,12 +51,12 @@ We checked at total 12 hypothesis to see if the data behaves like it was expecte
 
 **H10: Stores should sell more after the day 10 of the month**
 
-**Result: Truth. The stores have nearly the double of sales after day 10. (In total, not average)**
+**Result: True. The stores have nearly the double of sales after day 10. (In total, not average)**
 ![alt_text](https://github.com/jaohenritm/Rossman/blob/main/img/H10.png)
 
 **H11: Stores should sell less in the weekend.**
 
-**Result: Truth. The stores sells much less during the weekend, especially during sundays.**
+**Result: True. The stores sells much less during the weekend, especially during sundays.**
 ![alt_text](https://github.com/jaohenritm/Rossman/blob/main/img/H11.png)
 
 ## 2.3 Overview of all Hypothesis
