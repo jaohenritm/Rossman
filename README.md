@@ -76,7 +76,7 @@ We checked a total of 12 hypothesis to see if the data behaves like it was expec
 | H12: Stores should more during school holidays.| False  | Store sell less during school holidays with exception on July and August. |
 
 
-## 2.4 The Selection of Features
+## 2.4 Feature Selection
 As we did the EDA, it was perceived that some features in this dataset are impossible for now to be used in this project like.
 - Just used days where the Store was with OPEN status and have more sales than 0.
 - Customers can't be used as we don't have the number of how many customers the store will have.
